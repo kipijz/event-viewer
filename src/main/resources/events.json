@@ -1,0 +1,92 @@
+[
+  {
+    "eventId": "1",
+    "title": "UFC 286",
+    "date": "Mar 18, 2023",
+    "promoLink": "https://www.youtube.com/watch?v=ywCgP7XF28Y",
+    "poster": "https://i.postimg.cc/FzX7PW3f/edwardsusman2.jpg",
+    "backdrop": "https://i.postimg.cc/JzF76YW1/usmanedwards-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "2",
+    "title": "UFC on ESPN 44",
+    "date": "Apr 15, 2023",
+    "promoLink": "https://www.youtube.com/watch?v=xVnmWNVUuZo",
+    "poster": "https://i.postimg.cc/4yvnj6QW/holloway-allen.jpg",
+    "backdrop": "https://i.postimg.cc/Gmm9Ss8j/holloway-allen-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "3",
+    "title": "UFC 285",
+    "date": "Mar 4, 2023",
+    "promoLink": "https://www.youtube.com/watch?v=nj9L3rKckjM",
+    "poster": "https://i.postimg.cc/28m1htCM/jonesgane.jpg",
+    "backdrop": "https://i.postimg.cc/q7tqpVGh/jonesgane-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "4",
+    "title": "UFC 284",
+    "date": "Feb 12, 2023",
+    "promoLink": "https://www.youtube.com/watch?v=uu0vKfH5tsQ",
+    "poster": "https://i.postimg.cc/4NBxtNLH/volkmaka.jpg",
+    "backdrop": "https://i.postimg.cc/qRVJ0tRS/volkmaka-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "5",
+    "title": "UFC 282",
+    "date": "Dec 10, 2022",
+    "promoLink": "https://www.youtube.com/watch?v=d6-XFw7U6p0",
+    "poster": "https://i.postimg.cc/LsZ9rkHj/yanankalaev.jpg",
+    "backdrop": "https://i.postimg.cc/tT3XgXnT/yanankalaev-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "6",
+    "title": "UFC 280",
+    "date": "Oct 22, 2022",
+    "promoLink": "https://www.youtube.com/watch?v=sutOI2y831Q",
+    "poster": "https://i.postimg.cc/ZKcCcLRR/makolivera.jpg",
+    "backdrop": "https://i.postimg.cc/k5k441jj/makolivera-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "7",
+    "title": "UFC 278",
+    "date": "Aug 20, 2022",
+    "promoLink": "https://www.youtube.com/watch?v=_-oL8S4GGSE",
+    "poster": "https://i.postimg.cc/7YxLfTVy/usmanedwards.jpg",
+    "backdrop": "https://i.postimg.cc/nhSM8cqf/edwardsusman2-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "8",
+    "title": "UFC 275",
+    "date": "Jun 12, 2022",
+    "promoLink": "https://www.youtube.com/watch?v=MuPkS4EuR4c",
+    "poster": "https://i.postimg.cc/gjp2ywb8/teixeiraprochazka.jpg",
+    "backdrop": "https://i.postimg.cc/Dw0yckHj/teixeiraprochazka-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "9",
+    "title": "UFC 272",
+    "date": "Mar 5, 2022",
+    "promoLink": "https://www.youtube.com/watch?v=Y5mvLGq6138",
+    "poster": "https://i.postimg.cc/1RDggS1D/mascovington.jpg",
+    "backdrop": "https://i.postimg.cc/8cbPZ1T3/mascovington-header.jpg",
+    "commentIds": []
+  },
+  {
+    "eventId": "10",
+    "title": "UFC 262",
+    "date": "May 15, 2021",
+    "promoLink": "https://www.youtube.com/watch?v=bSoLJpOv0EA",
+    "poster": "https://i.postimg.cc/gJ806VQG/oliverachand.jpg",
+    "backdrop": "https://i.postimg.cc/8kd5pbLH/oliverachand-header.jpg",
+    "commentIds": []
+  }
+]
